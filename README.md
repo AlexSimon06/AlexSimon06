@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name ist AlexSimon
+My name ist Alex Simon
 <!--
 **AlexSimon06/AlexSimon06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
